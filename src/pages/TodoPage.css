@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+
+.input-container{
+    box-sizing: border-box;
+    width: 50%;
+    margin: auto;
+}
+
+
+.list-container{
+    box-sizing: border-box;
+    width: 50%;
+    margin: auto;
+}
+li{
+    padding: 15px;
+    cursor: pointer;
+}
+li:hover{
+    background-color: #ff4d4f;
+    border-radius: 50px;
+}
+
+.outlet-container{
+    width: 50%;
+    margin: auto;
+}
